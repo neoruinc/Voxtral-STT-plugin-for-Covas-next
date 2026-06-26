@@ -8,3 +8,5 @@ In Covas:next, go to plugin tab, it must appear under EdCopilot<br><br>
 Next, in advanced tab, choose plugin as STT/Microphone Settings<br><br>
 
 ![image](https://github.com/neoruinc/Voxtral-STT-plugin-for-Covas-next/blob/main/stt_settings.png)<br><br>
+
+Enjoy!
