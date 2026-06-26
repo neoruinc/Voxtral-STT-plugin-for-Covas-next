@@ -23,8 +23,7 @@ class MistralVoxtralSTTModel(STTModel):
         super().__init__("mistral_voxtral")
         self.api_key = api_key
         self.model = model
-        # Endpoint officiel pour Voxtral Transcribe (juin 2026)
-        #self.api_url = "https://api.mistral.ai/api/v1/transcribe"
+        # Endpoint officiel pour Voxtral Transcribe
         self.api_url = "https://api.mistral.ai/v1/audio/transcriptions"
 
     def transcribe(self, audio: bytes | AudioData) -> str:
