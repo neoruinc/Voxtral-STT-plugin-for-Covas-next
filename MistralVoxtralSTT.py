@@ -1,4 +1,4 @@
-from typing import override  # <-- Ajoutez cette ligne
+from typing import override 
 from lib.PluginBase import PluginBase, PluginManifest
 from lib.PluginHelper import PluginHelper, STTModel
 from lib.PluginSettingDefinitions import (
