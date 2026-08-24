@@ -1,4 +1,4 @@
-# Voxtral-STT-plugin-for-Covas-next (Made with Mistral Vibe)
+# Voxtral-STT-plugin-for-Covas-next (Made with Mistral Vibe - work in progress)
 Use Voxtral from Mistral AI as STT
 
 1: create a folder named **MistralVoxtralSTT** in %appdata%\com.covas-next.ui\plugins<br>
